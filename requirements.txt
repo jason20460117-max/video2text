@@ -1,0 +1,14 @@
+# --- 基础框架与 UI ---
+streamlit
+
+# --- AI 与 模型相关 ---
+openai
+openai-whisper
+torch
+zhconv
+
+# --- 视频下载与处理 ---
+yt-dlp
+
+# --- 工具类 ---
+# (通常 Python 自带的 os, re, time, glob 不需要写在这里)
